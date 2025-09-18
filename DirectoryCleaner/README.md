@@ -2,7 +2,7 @@
 
 
 👨‍💻 Author :- Om Ravindra Wakhare
-📧 Contact: omwakhare16@gmail(mailto:your.omwakhare16@gmail.com)
+📧 Contact: omwakhare16@gmail.com
 
 This Python script automates the process of scanning a directory, identifying duplicate files based on their **MD5 checksum**, and deleting the duplicates.  
 It also supports generating logs and providing helpful instructions through command-line arguments.
@@ -117,9 +117,6 @@ Total deleted file : 1
 -------------------------------------------------------------
 ------------- Thank you for using our script ----------------
 -------------------------------------------------------------
-```
-
----
 
 
 

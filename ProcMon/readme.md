@@ -1,11 +1,16 @@
 # ProcMon - Process Monitor
 
+👨‍💻 Author :- Om Ravindra Wakhare
+📧 Contact: omwakhare16@gmail.com
+
 [![Python](https://img.shields.io/badge/Python-3.7%2B-blue.svg)](https://www.python.org/)
 [![psutil](https://img.shields.io/badge/dependency-psutil-green.svg)](https://pypi.org/project/psutil/)
 
 **ProcMon** (*Process Monitor*) is a lightweight Python tool to monitor running processes and generate detailed log files with timestamped filenames. It helps in auditing, debugging, and analyzing system activity.
 
 ---
+
+
 
 ## ✨ Features
 
@@ -96,15 +101,4 @@ python procmon.py
 
 ---
 
-## 🤝 Contributing
-
-Contributions are welcome!
-
-* Open an [issue](https://github.com/your-username/procmon/issues)
-* Submit a [pull request](https://github.com/your-username/procmon/pulls)
-
----
-
-
----
 
